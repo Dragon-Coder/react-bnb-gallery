@@ -1,9 +1,8 @@
 {
-  "name": "react-bnb-gallery",
-  "version": "1.4.4",
+  "name": "chris-react-bnb-gallery",
+  "version": "1.0.0",
   "description": "Simple photo gallery based on React and Airbnb image gallery",
-  "author": "Pedro Enrique Palau <pepalauisaac@gmail.com>",
-  "homepage": "https://peterpalau.github.io/react-bnb-gallery/",
+  "author": "Chris Smith <chrissmithwebmaster@gmail.com>",
   "keywords": [
     "react",
     "gallery",
@@ -23,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:peterpalau/react-bnb-gallery.git"
+    "url": "git@github.com:Dragon-Coder/react-bnb-gallery.git"
   },
   "license": "MIT",
   "main": "dist/index.js",
@@ -56,8 +55,8 @@
     "preview:deploy": "cd ./docs && yarn export"
   },
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
